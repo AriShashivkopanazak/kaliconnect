@@ -1,3 +1,4 @@
+# Author: Ari Shashivkopanazak
 #!/bin/bash
 ip a
 
