@@ -1,6 +1,4 @@
-# kaliconnect
 ![](https://raw.githubusercontent.com/AriShashivkopanazak/kaliconnect/master/misc/kaliconnect.jpg)
-
 releasing soon :) just troubleshooting my raspberry pi
 
 links I'm using: https://medium.com/poka-techblog/diy-wifi-router-using-kali-linux-on-a-raspberry-pi-3-model-b-89b8e5497cbf
