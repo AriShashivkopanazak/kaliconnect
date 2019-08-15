@@ -23,3 +23,8 @@ iw $interface scan | less
 # echo " 8O8      O888     88     888    O7       O88D8   88D88Z  888888  :88888   78O888  O88888 "
 # echo " 8  8Z   88 O8     88       8    O8       8    8   8  78   8   8  O8___88  8         8    "
 # echo "888  88  88888O  888888  O88888   888888  88888   888 88  888 8O8  88888   O888D8    88888"
+
+
+#Acknowledgements:
+#Thank you developers of WPA_Supplicant!  Could not have done it without you guys.
+#Finally, Thank you glassgiant.com for designing the banner!
