@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#./kaliconnect.sh
 #lists all interfaces
 ip a
 echo "what wireless interface do you want to use?"
@@ -25,6 +25,11 @@ sudo ip link set $interface up
 
 # obtains ip address
 # dhclient $interface
+
+# [optional] first run, deletes the unnecessary files, comment out if you want to keep it
+# rm ./kaliconnect/misc/kaliconnect.jpg
+# rmdir ./kaliconnect/misc
+# rm ./kaliconnect/README.md
 
 # clears screen
 # clear
