@@ -26,13 +26,10 @@ sudo ip link set $interface up
 # obtains ip address
 # dhclient $interface
 
-# [optional] first run, deletes the unnecessary files, comment out if you want to keep it
-# rm ./kaliconnect/misc/kaliconnect.jpg
-# rmdir ./kaliconnect/misc
-# rm ./kaliconnect/README.md
-
 # clears screen
 # clear
+
+
 # echo "                                                                                          "
 # echo "                                                                                          "
 # echo "                         888888:                                                          "
@@ -48,3 +45,6 @@ sudo ip link set $interface up
 
 # shows info about your connected access point
 # ip addr show $interface
+
+#Acknowledgements:
+#Special thanks to the WPA_Supplicant Team
