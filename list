@@ -1,0 +1,6 @@
+# reading passphrase from stdin
+network={
+	ssid=""
+	#psk="unusuallotus733$!"
+	psk=5f8ed3ca6aa73bcdaa04d20c66a39461d4cb5a806b04b779f7324979c9fe96ff
+}
