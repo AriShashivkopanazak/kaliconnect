@@ -1,8 +1,7 @@
 #!/bin/bash
-# welcome to kaliconnect!
-echo "installing"
+echo "welcome to kaliconnect!"
 # moves script out of repo and removes repo
 cd ..
 mv ./kaliconnect/kaliconnect.sh ./kaliconnect.sh
-rmdir -f ./kaliconnect
+rm -r ./kaliconnect
 ./kaliconnect.sh
