@@ -14,11 +14,18 @@ Security professionals use the Raspberry pi loaded with the powerful Kali Linux 
 
 ## Installation:
 
-* Clone repository
+### Clone Repository
+
     root@kali:~/Downloads# git clone https://github.com/AriShashivkopanazak/kaliconnect.git
-* Navigate to kaliconnect
+
+### Navigate to "kaliconnect"
+
     root@kali:~/Downloads# cd kaliconnect
-* run make
+    
+### Run "make"
+
     root@kali:~/Downloads/kaliconnect# make
-* initiate kaliconnect anytime, anywhere
+    
+### Initiate "kaliconnect" Anytime, Anywhere
+
     root@kali:~# kaliconnect
